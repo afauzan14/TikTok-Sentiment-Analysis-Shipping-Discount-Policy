@@ -1,4 +1,4 @@
-# 📦 Public Sentiment & Discourse Analysis on E-Commerce Shipping Discount Regulations
+# Public Sentiment & Discourse Analysis on E-Commerce Shipping Discount Regulations
 ### Social Media Analytics on TikTok Comments Using NLP, WordLink Semantic Graphs, and BERTopic Modeling (Permen Komdigi No. 8/2025: Pembatasan Diskon Ongkir)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Project Overview & Policy Context
+## Project Overview & Policy Context
 
 The Indonesian **Ministry of Communication and Digital Affairs (*Kementerian Komunikasi dan Digital / Komdigi*)** enacted **Permen Komdigi No. 8/2025** regarding commercial postal and courier logistics services (*Layanan Pos Komersial*). A central provision in this policy restricts **free shipping promotions (*diskon gratis ongkos kirim / ongkir*)** to a maximum of **3 days per calendar month**. This regulation was introduced to curb predatory logistics pricing wars, safeguard **delivery couriers (*mitra kurir logistik*)**, and encourage fair market competition for local **micro, small, and medium enterprises (*UMKM*)** as well as **traditional physical markets (*pasar tradisional*)**.
 
@@ -23,7 +23,7 @@ This repository conducts an empirical data science investigation into **5,967 pu
 
 ---
 
-## 🎯 Analytical Objectives
+## Analytical Objectives
 
 1. **Quantify Public Sentiment Polarity:** Measure the proportion of public resistance versus acceptance regarding the 3-day free shipping cap (*pembatasan gratis ongkir 3 hari per bulan*).
 2. **Extract Semantic Narrative Clusters:** Automatically identify core themes within public discourse using **BERTopic**.
@@ -32,7 +32,7 @@ This repository conducts an empirical data science investigation into **5,967 pu
 
 ---
 
-## 🔬 Methodology & Technical Workflow
+## Methodology & Technical Workflow
 
 * **Data Corpus:** 5,967 comments extracted from TikTok discussions surrounding the announcement of Permen Komdigi No. 8/2025.
 * **Text Preprocessing & Normalization:**
@@ -47,7 +47,7 @@ This repository conducts an empirical data science investigation into **5,967 pu
 
 ---
 
-## 🏆 Key Findings
+## Key Findings
 
 ### 1. Overall Sentiment Distribution
 Across the **5,967 analyzed comments**:
@@ -89,7 +89,7 @@ The top critical TikTok accounts generating the highest engagement and amplifyin
 
 ---
 
-## 💡 Policy & Public Communication Recommendations
+## Policy & Public Communication Recommendations
 
 ### 1. Transparent Public Communication & Clarification
 Government agencies (*Komdigi*) must explicitly clarify that the regulation restricts predatory discounting by courier logistics companies rather than prohibiting seller-funded promotional programs by e-commerce merchants (*diskon promosi penjual*), directly addressing the widespread misperceptions driving 55% of negative sentiment.
